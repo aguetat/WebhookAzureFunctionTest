@@ -1,2 +1,2 @@
 # WebhookAzureFunctionTest
-webhook + AZ Function
+webhook + AZ Function (a sample)
